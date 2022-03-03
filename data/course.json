@@ -1,0 +1,27 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "instructors": {
+    "content": [],
+    "website": "test-george-pr-765"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-george-pr-765"
+  },
+  "course_title": "title here",
+  "course_description": "description",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-george-pr-765"
+  },
+  "learning_resource_types": [],
+  "site_uid": "a2fa0ccd-b0d2-4638-bbec-70e1ff0b8dc3"
+}
